@@ -5,21 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrielcolno" alt="gabrielcolno" /></a> </p>
 
-- 🔭 I’m currently working on **An idle game**
+- 🔭 I’m currently working at SafBear
 
 - 🌱 I’m currently learning **WEB, Data**
 
-- 👯 I’m looking to collaborate on **Indie games**
-
 - 🤝 I’m looking for help with **C++ C# JS Java Node**
-
-- 👨‍💻 All of my projects are available at [WIP](WIP)
-
-- 💬 Ask me about **HTML, CSS, SQL, Java, JS**
-
-- 📫 How to reach me **gabrielcolnotpro@gmail.com**
-
-- ⚡ Fun fact **Originally, I was supposed to study geopolitics, but I said "fuck it, let's be a developer instead."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
