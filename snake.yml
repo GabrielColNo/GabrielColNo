@@ -12,6 +12,8 @@ on:
 
 jobs:
   generate:
+    - name: move snake.svg to root
+      run: mv dist/snake.svg .
     permissions:
       contents: write
     runs-on: ubuntu-latest
@@ -29,6 +31,6 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
