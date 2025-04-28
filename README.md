@@ -16,7 +16,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/GabrielColNo/GabrielColNo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/GabrielColNo/GabrielColNo/output/dist/snake.svg" alt="Snake animation" />
 
 ###
 
