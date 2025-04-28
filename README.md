@@ -6,17 +6,6 @@
 
 ###
 
-<!-- version light -->
-<img src="https://raw.githubusercontent.com/GabrielColNo/GabrielColNo/output/github-snake.svg" alt="GitHub Snake" />
-
-<!-- version dark -->
-<img src="https://raw.githubusercontent.com/GabrielColNo/GabrielColNo/output/github-snake-dark.svg" alt="GitHub Snake dark mode" />
-
-<!-- version gif -->
-<img src="https://raw.githubusercontent.com/GabrielColNo/GabrielColNo/output/ocean.gif" alt="GitHub Snake animation" />
-
-###
-
 <p align="left">Wielder of the Sacred Stack Overflow, Lord of the Git Repositories, First of His Name in the Commit History, Protector of the DOM, Debugger of the Nightly Builds, Guardian of the CI/CD Pipeline, Master of the Responsive Realms, and Refactorer of Legacy Code.</p>
 
 ###
