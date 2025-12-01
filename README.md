@@ -8,7 +8,7 @@
 
 <p align="left">"Wielder of the Sacred Stack Overflow, Lord of the Git Repositories, First of His Name in the Commit History, Protector of the DOM, Debugger of the Nightly Builds, Guardian of the CI/CD Pipeline, Master of the Responsive Realms, and Refactorer of Legacy Code."</p>
 
-## 🛠️ Technical Skills & Experience
+## Technical Skills & Experience
 
 * **Programming Languages & Frameworks:** Python (Django, Wagtail CMS), Java (Foundational), JavaScript (JS).
 * **Frontend Development:** HTML5, CSS3, Tailwind CSS.
@@ -17,7 +17,7 @@
 * **API Integration:** Experienced with external services like Stripe and Claude API.
 * **Design Tools:** Figma, Canva.
 
-## 🚀 Core Competencies
+## Core Competencies
 
 ### Backend & Frameworks
 * **Python:** Built applications using **Django** and specialized in **Wagtail CMS** to simplify content management system development.
