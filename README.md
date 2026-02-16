@@ -66,5 +66,5 @@ A comprehensive admin platform for content moderation & child safety management:
 - Clean, maintainable code with focus on testing & documentation
 
 ## 🔗 Links
-- **GitHub:** [github.com/your-username](https://github.com/GabrielColNo)
+- **GitHub:** [github.com/GabrielColNo](https://github.com/GabrielColNo)
 - **Email:** [gabrielcolnotpro@gmail.com](mailto:your.email@example.com)
